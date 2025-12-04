@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,redis,kafka)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,redis,kafka,elasticsearch)](https://skillicons.dev)
 
 </div>
